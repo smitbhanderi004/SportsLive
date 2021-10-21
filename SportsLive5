@@ -2,9 +2,9 @@
    "Ads":[
       {
          "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"625df2642cf54877b47b7001a8bc457d",
-         "interstitial_id":"/80d2c6327ade4dbfa55a36383d85bbd3/",
-         "native_id":"ec704a5badce40ea81f10d5fffed5f27",
+         "banner_id":"1304405f51bc4b89ab8d31a7d3029029",
+         "interstitial_id":"b7512b53023d4fa2b7d66711d22b3a55",
+         "native_id":"10acbbf6d5564db68a4291ddb0a9e3de",
          "qureka_ads":"https://831.win.qureka.com/",
          "status":"true",
          "splash_ads":"false"
