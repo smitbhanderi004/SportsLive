@@ -7,16 +7,16 @@
    "app_howShowAd":"0",
    "qureka":"https://831.win.qureka.com/",
    "more_app":"https://raw.githubusercontent.com/smitbhanderi/RajMandir4/main/db.json",
-   "admob_showAdStatus":"1",
+   "admob_showAdStatus":"0",
    "AppID":"ca-app-pub-5591093367999179~5434352981",
    "Admob_Banner":"ca-app-pub-5591093367999179/5588102512",
    "Admob_Interstitial":"ca-app-pub-5591093367999179/9590054564",
    "Admob_Native":"ca-app-pub-5591093367999179/3951603125",
    "AppOpen":"ca-app-pub-5591093367999179/6963891222",
-   "fbad_showStatus":"0",
-   "mopub_banner":"",
-   "mopub_inter1":"",
-   "mopub_inter2":"",
-   "mopub_inter3":"",
-   "mopub_native":""
+   "fbad_showStatus":"1",
+   "mopub_banner":"a8721a38e5694b1d8b272752c48f61ff",
+   "mopub_inter1":"76969ebbf2cc4c6e92f17b3e598e597a",
+   "mopub_inter2":"76969ebbf2cc4c6e92f17b3e598e597a",
+   "mopub_inter3":"76969ebbf2cc4c6e92f17b3e598e597a",
+   "mopub_native":"c8d2f2648e0d4907b3093a4c1c9eaee5"
 }
